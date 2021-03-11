@@ -11,7 +11,7 @@ governing permissions and limitations under the License.
 -->
 
 # Archived!
-Go to https://github.com/adobe/aio-cli/blob/master/HEALTH.md instead.
+Go to https://github.com/adobe/aio-cli#aio-cli-health instead.
 
 <!--
 DON'T GENERATE MANUALLY!
